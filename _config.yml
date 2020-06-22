@@ -1,0 +1,36 @@
+# site settings
+title: Kuncoro Wicaksono
+subtitle: Portfolio Website
+email: coroo.wicaksono@gmail.com
+description: Building Insurtech in Indonesia | Partnership Project Engineer |<br/> PT. Asuransi Jiwa Sequis Life | University of Indonesia
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "coroo.github.io" # the base hostname & protocol for your site
+author:
+city: Tangerang Selatan
+state: Banten
+zip_code: 15413
+country: Indonesia
+phone: (+62) 878 04 005 006
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/coroo
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/kuncoro.wicaksono/
+linkedin_url: https://www.linkedin.com/in/coroowicaksono/
+pinterest_url:
+slack_url:
+twitter_url: 
+mail_url: coroo.wicaksono@gmail.com
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
