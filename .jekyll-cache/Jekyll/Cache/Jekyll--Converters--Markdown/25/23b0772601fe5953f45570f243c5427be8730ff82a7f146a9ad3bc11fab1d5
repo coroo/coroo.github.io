@@ -1,18 +1,11 @@
----
-layout: landing
-title: About Me
-image: assets/images/kuncoro-wicaksono.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"#<!-- Main -->
 <div id="main" class="alt">
 
 <!-- one -->
 <section id="one" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/kuncoro-wicaksono.jpg %}" alt="" data-position="center center" />
+			<img src="/assets/images/kuncoro-wicaksono.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -25,7 +18,7 @@ nav-menu: true
 	</section>
 	<!-- <section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -41,7 +34,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -65,7 +58,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Who I'm</h3>
 				</header>
-				<br/>
+				<br />
 				<div class="table-wrapper">
 					<table>
 						<thead>
@@ -115,20 +108,20 @@ nav-menu: true
 				<dl>
 					<dt>2016 - 2018</dt>
 					<dd>
-						<h4 style="margin-bottom:0">Master of Information & Technology</h4>
-						<a href="https://www.ui.ac.id/en/" class="button small">Master's degree - <img src="{% link assets/images/logo-ui.png %}" width="24px" style="margin-bottom:-7px" alt="" /> University of Indonesia</a>
+						<h4 style="margin-bottom:0">Master of Information &amp; Technology</h4>
+						<a href="https://www.ui.ac.id/en/" class="button small">Master's degree - <img src="/assets/images/logo-ui.png" width="24px" style="margin-bottom:-7px" alt="" /> University of Indonesia</a>
 						<p></p>
 					</dd>
 					<dt>2012 - 2015</dt>
 					<dd>
-						<h4 style="margin-bottom:0">Financial Business & Management</h4>
-						<a href="https://www.ui.ac.id/en/" class="button small">Bachelor's degree - <img src="{% link assets/images/logo-ui.png %}" width="24px" style="margin-bottom:-7px" alt="" /> University of Indonesia</a>
+						<h4 style="margin-bottom:0">Financial Business &amp; Management</h4>
+						<a href="https://www.ui.ac.id/en/" class="button small">Bachelor's degree - <img src="/assets/images/logo-ui.png" width="24px" style="margin-bottom:-7px" alt="" /> University of Indonesia</a>
 						<p></p>
 					</dd>
 					<dt>2009 - 2012</dt>
 					<dd>
 						<h4 style="margin-bottom:0">Accounting Technology System Information </h4>
-						<a href="https://www.ui.ac.id/en/" class="button small">Diploma's degree - <img src="{% link assets/images/logo-ui.png %}" width="24px" style="margin-bottom:-7px" alt="" /> University of Indonesia</a>
+						<a href="https://www.ui.ac.id/en/" class="button small">Diploma's degree - <img src="/assets/images/logo-ui.png" width="24px" style="margin-bottom:-7px" alt="" /> University of Indonesia</a>
 						<p></p>
 					</dd>
 				</dl>
@@ -143,7 +136,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/sequis-tower.jpg %}" alt="" data-position="top center" />
+			<img src="/assets/images/sequis-tower.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -172,14 +165,14 @@ nav-menu: true
 						</tr>
 					</tbody>
 				</table>
-				<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+				<input type="radio" id="demo-priority-low" name="demo-priority" checked="" />
 				<label for="demo-priority-low">Present</label>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/futuready-office.jpg %}" alt="" data-position="25% 25%" />
+			<img src="/assets/images/futuready-office.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -217,7 +210,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/ericsson-office.jpg %}" alt="" data-position="top center" />
+			<img src="/assets/images/ericsson-office.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -246,7 +239,7 @@ nav-menu: true
 					<thead>
 						<tr>
 							<th>Title</th>
-							<th style="width:65%">Tools & Method</th>
+							<th style="width:65%">Tools &amp; Method</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -264,7 +257,7 @@ nav-menu: true
 					<thead>
 						<tr>
 							<th>Title</th>
-							<th style="width:65%">Logistic & Warehousing Developer</th>
+							<th style="width:65%">Logistic &amp; Warehousing Developer</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -324,3 +317,4 @@ nav-menu: true
 </section>
 
 </div>
+:ET

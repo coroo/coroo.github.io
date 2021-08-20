@@ -1,12 +1,4 @@
----
-title: My Medium
-layout: landing
-description: 'Find out me at medium.'
-image: assets/images/pic09.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"²<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -78,3 +70,4 @@ nav-menu: true
 </section>
 
 </div>
+:ET
